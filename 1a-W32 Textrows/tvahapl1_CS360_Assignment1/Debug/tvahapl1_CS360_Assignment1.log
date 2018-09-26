@@ -1,0 +1,6 @@
+﻿  tvahapl1_CS360_Assignment1.cpp
+c:\users\tolgahan\documents\visual studio 2015\projects\tvahapl1_cs360_assignment1\tvahapl1_cs360_assignment1\tvahapl1_cs360_assignment1.cpp(34): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+c:\users\tolgahan\documents\visual studio 2015\projects\tvahapl1_cs360_assignment1\tvahapl1_cs360_assignment1\tvahapl1_cs360_assignment1.cpp(39): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+c:\users\tolgahan\documents\visual studio 2015\projects\tvahapl1_cs360_assignment1\tvahapl1_cs360_assignment1\tvahapl1_cs360_assignment1.cpp(148): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tvahapl1_CS360_Assignment1.vcxproj -> C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\tvahapl1_CS360_Assignment1\Debug\tvahapl1_CS360_Assignment1.exe
+  tvahapl1_CS360_Assignment1.vcxproj -> C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\tvahapl1_CS360_Assignment1\Debug\tvahapl1_CS360_Assignment1.pdb (Full PDB)

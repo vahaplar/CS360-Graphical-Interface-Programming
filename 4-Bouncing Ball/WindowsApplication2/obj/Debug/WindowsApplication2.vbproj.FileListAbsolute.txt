@@ -1,0 +1,13 @@
+c:\users\tolgahan\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\tolgahan\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\tolgahan\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Tolgahan\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources

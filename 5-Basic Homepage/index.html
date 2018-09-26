@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <TITLE>Tolgahan Vahaplar</TITLE>
+
+    <script>
+        function multiply() {
+            var x = document.getElementById("firstValue").value;
+            var y = document.getElementById("secondValue").value;
+
+            if (x == "" || y == "")
+              document.getElementById("result").value ='Missing value';
+            else if (isNaN(x*y))
+              document.getElementById("result").value ='Invalid value';
+            else
+              document.getElementById("result").value = x*y;
+        }
+    </script>
+
+    <style type='text/css'>
+        a {
+            font-size: 32px;
+            color: gray;
+        }
+        .centered {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: 5px dotted black;
+            border-radius: 300px;
+        }
+        table {
+            border: 2px solid gray;
+            border-radius: 5px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div>
+        <img class='centered' src="http://www.journalofasianmartialarts.com/content/products/shotokan-karate-as-non-discursive-intercultural-exchange-66.jpg" width="400" height="400" alt='Shotokan Karate'>
+    </div>
+    <div style="text-align:center; padding: 10px">
+        <a href="mailto://tvahapl1@binghamton.edu">Tolgahan Vahaplar</a>
+    </div>
+    <div>
+        <table align="center">
+            <tr>
+                <td>
+                    <input id='firstValue'  type="text" autofocus="autofocus">
+                </td>
+                <td>
+                    <input id='secondValue' type="text">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="multiply" type="button" value="Click to Multiply" onclick="multiply();" />
+                </td>
+                <td>
+                    <input id="result" type="text" name="result" disabled="disabled" />
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
